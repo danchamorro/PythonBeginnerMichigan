@@ -1,6 +1,7 @@
 # Python Beginner Michigan State Coursera Certificate 
 
 This repo is all my completed and graded assignments from the Python for Everybody Specialization on Coursera 
+[![Coursera-MQAHZ3-RLYBR5.png](https://i.postimg.cc/3JpWskjy/Coursera-MQAHZ3-RLYBR5.png)](https://postimg.cc/nCFH7cPZ)
 
 # Certifications 
 
