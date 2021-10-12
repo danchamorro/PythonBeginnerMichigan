@@ -39,3 +39,10 @@ This repo is all my completed and graded assignments from the Python for Everybo
 - **Expiration Date**: This certification does not expire
 - **Credential ID**: ZQ2F88W8487U
 - **Credential URL**: https://www.coursera.org/account/accomplishments/certificate/ZQ2F88W8487U
+-------------------------------------------------------------------------------------------------
+- **Name**: Python for Everybody Specialization
+- **Issuing Organization**: Coursera
+- **Issue Date**: October 2021
+- **Expiration Date**: This certification does not expire
+- **Credential ID**: MQAHZ3RLYBR5
+- **Credential URL**: https://www.coursera.org/account/accomplishments/specialization/certificate/MQAHZ3RLYBR5
