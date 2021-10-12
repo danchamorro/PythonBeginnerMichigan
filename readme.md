@@ -31,3 +31,10 @@ This repo is all my completed and graded assignments from the Python for Everybo
 - **Expiration Date**: This certification does not expire
 - **Credential ID**: 7YYY8VXEKRVA
 - **Credential URL**: https://www.coursera.org/account/accomplishments/certificate/7YYY8VXEKRVA
+-------------------------------------------------------------------------------------------------
+- **Name**: Capstone: Retrieving, Processing, and Visualizing Data with Python
+- **Issuing Organization**: Coursera
+- **Issue Date**: October 2021
+- **Expiration Date**: This certification does not expire
+- **Credential ID**: ZQ2F88W8487U
+- **Credential URL**: https://www.coursera.org/account/accomplishments/certificate/ZQ2F88W8487U
